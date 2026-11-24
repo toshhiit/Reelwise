@@ -1,0 +1,8 @@
+# личное: настройки и журналы пользователя
+settings.ini
+macro_log.txt
+reel_log*.csv
+debug/
+# собранное (выкладывается в релизы GitHub)
+dist/
+*.new
